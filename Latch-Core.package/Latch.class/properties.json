@@ -1,0 +1,14 @@
+{
+	"category" : "Latch-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Latch",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
