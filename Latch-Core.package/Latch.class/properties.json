@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "GermanArduino 7/25/2014 14:01",
 	"instvars" : [
-		 ],
+		"api_host",
+		"appId",
+		"secretKey" ],
 	"name" : "Latch",
 	"pools" : [
 		 ],
