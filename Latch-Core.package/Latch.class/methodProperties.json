@@ -1,5 +1,16 @@
 {
 	"class" : {
-		 },
+		"api_check_status_url" : "GermanArduino 7/25/2014 09:13",
+		"api_host" : "GermanArduino 7/25/2014 08:54",
+		"api_pair_url" : "GermanArduino 7/25/2014 09:14",
+		"api_pair_with_id_url" : "GermanArduino 7/25/2014 09:16",
+		"api_port" : "GermanArduino 7/25/2014 08:55",
+		"api_unpair_url" : "GermanArduino 7/25/2014 09:16",
+		"authorization_header_field_separator" : "GermanArduino 7/25/2014 10:47",
+		"authorization_header_name" : "GermanArduino 7/25/2014 09:26",
+		"authorization_method" : "GermanArduino 7/25/2014 10:46",
+		"date_header_name" : "GermanArduino 7/25/2014 09:34",
+		"x_11paths_header_prefix" : "GermanArduino 7/25/2014 10:49",
+		"x_11paths_header_separator" : "GermanArduino 7/25/2014 10:51" },
 	"instance" : {
 		 } }
