@@ -1,4 +1,4 @@
 Latch
 =====
 
-Latch SDK for Smalltalk
+Latch SDK for Pharo Smalltalk
